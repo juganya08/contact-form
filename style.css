@@ -1,0 +1,36 @@
+#bg-body {
+    background: url(mountain.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;;
+  }
+
+
+  .container {
+    display: flex;
+    align-items: center;  /* Vertical alignment */
+    justify-content: center;  /* Horizontal alignment, if needed */
+    height: 100vh;  /* Adjust this to the desired height */
+}
+
+.error {
+    color: red;
+    font-size: 0.9em;
+}
+
+.bg-black {
+    background-color: black;
+}
+
+.ft-white {
+    color: white;
+    
+}
+
+.ft-ylw {
+    color: yellow;
+}
+
+.btn-submit {
+    background-color: yellow !important;
+
+}
